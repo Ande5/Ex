@@ -10,7 +10,7 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
-            апап
+            Console.WriteLine("Проверка Git!");
         }
     }
 }
