@@ -10,8 +10,8 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Проверка Git!dssds");
-            рпфыфыфы
+            Console.WriteLine("Проверка Git!Atom");
+            bbbb
         }
     }
 }
